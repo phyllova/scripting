@@ -1,0 +1,98 @@
+[02-Nov-2022 23:24:35 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[02-Nov-2022 23:24:35 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[02-Nov-2022 23:26:09 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[02-Nov-2022 23:26:09 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[04-Nov-2022 03:25:15 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[04-Nov-2022 03:25:15 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[04-Nov-2022 03:26:02 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[04-Nov-2022 03:26:02 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[07-Nov-2022 03:05:29 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[07-Nov-2022 03:05:29 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[07-Nov-2022 03:06:26 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[07-Nov-2022 03:06:26 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[14-Nov-2022 02:45:46 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/scrixuez/public_html/aa-investment-pro-v2.0/config/db.php on line 16
+[15-Nov-2022 07:15:20 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[15-Nov-2022 07:15:20 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[15-Nov-2022 07:41:14 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[15-Nov-2022 07:41:14 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[15-Nov-2022 07:49:59 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 45
+[15-Nov-2022 07:49:59 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-investment-pro-v2.0/users/form/signup.php on line 67
+[15-Nov-2022 08:16:57 America/New_York] PHP Notice:  Undefined index: phone in /home/scrixuez/public_html/aa-superhyip/config/include/settings.php on line 24
+[15-Nov-2022 08:16:57 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45
+[15-Nov-2022 08:16:57 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 67
+[15-Nov-2022 08:26:39 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45
+[15-Nov-2022 08:26:39 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 67
+[15-Nov-2022 08:27:24 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not instantiate mail function. in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php:1703
+Stack trace:
+#0 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1515): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Tue, 15 N...', '\t\n<div style="b...')
+#1 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/scrixuez/public_html/aa-superhyip/users/form/control/for-signin.php(78): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/scrixuez/public_html/aa-superhyip/users/form/index.php(4): require('/home/scrixuez/...')
+#4 {main}
+  thrown in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php on line 1703
+[15-Nov-2022 08:30:22 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not instantiate mail function. in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php:1703
+Stack trace:
+#0 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1515): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Tue, 15 N...', '\t\n<div style="b...')
+#1 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/scrixuez/public_html/aa-superhyip/users/form/control/for-signin.php(78): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/scrixuez/public_html/aa-superhyip/users/form/index.php(4): require('/home/scrixuez/...')
+#4 {main}
+  thrown in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php on line 1703
+[15-Nov-2022 08:32:11 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not instantiate mail function. in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php:1703
+Stack trace:
+#0 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1515): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Tue, 15 N...', '\t\n<div style="b...')
+#1 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/scrixuez/public_html/aa-superhyip/users/form/control/for-signin.php(78): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/scrixuez/public_html/aa-superhyip/users/form/index.php(4): require('/home/scrixuez/...')
+#4 {main}
+  thrown in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php on line 1703
+[10-Dec-2022 06:30:49 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45
+[10-Dec-2022 06:30:49 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 67
+[10-Dec-2022 06:31:35 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45
+[10-Dec-2022 06:31:35 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 67
+[10-Dec-2022 06:32:10 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not instantiate mail function. in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php:1703
+Stack trace:
+#0 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1515): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Sat, 10 D...', '\t\n<div style="b...')
+#1 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/scrixuez/public_html/aa-superhyip/users/form/control/for-signup.php(96): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/scrixuez/public_html/aa-superhyip/users/form/signup.php(4): require('/home/scrixuez/...')
+#4 {main}
+  thrown in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php on line 1703
+[10-Dec-2022 06:32:56 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45
+[10-Dec-2022 06:32:56 America/New_York] PHP Deprecated:  Non-static method sysfunc::countries() should not be called statically in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 67
+[10-Dec-2022 06:34:08 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not instantiate mail function. in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php:1703
+Stack trace:
+#0 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1515): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Sat, 10 D...', '\t\n<div style="b...')
+#1 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/scrixuez/public_html/aa-superhyip/users/form/control/for-signup.php(96): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/scrixuez/public_html/aa-superhyip/users/form/signup.php(4): require('/home/scrixuez/...')
+#4 {main}
+  thrown in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php on line 1703
+[10-Dec-2022 06:35:13 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not instantiate mail function. in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php:1703
+Stack trace:
+#0 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1515): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Sat, 10 D...', '\t\n<div style="b...')
+#1 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/scrixuez/public_html/aa-superhyip/users/form/control/for-signup.php(96): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/scrixuez/public_html/aa-superhyip/users/form/signup.php(4): require('/home/scrixuez/...')
+#4 {main}
+  thrown in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php on line 1703
+[10-Dec-2022 06:36:09 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not instantiate mail function. in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php:1703
+Stack trace:
+#0 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1515): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Sat, 10 D...', '\t\n<div style="b...')
+#1 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/scrixuez/public_html/aa-superhyip/users/form/control/for-signup.php(96): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/scrixuez/public_html/aa-superhyip/users/form/signup.php(4): require('/home/scrixuez/...')
+#4 {main}
+  thrown in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php on line 1703
+[10-Dec-2022 06:37:52 America/New_York] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Could not instantiate mail function. in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php:1703
+Stack trace:
+#0 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1515): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Sat, 10 D...', '\t\n<div style="b...')
+#1 /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/scrixuez/public_html/aa-superhyip/users/form/control/for-signin.php(78): PHPMailer\PHPMailer\PHPMailer->send()
+#3 /home/scrixuez/public_html/aa-superhyip/users/form/index.php(4): require('/home/scrixuez/...')
+#4 {main}
+  thrown in /home/scrixuez/public_html/aa-superhyip/config/include/PHPMailer/PHPMailer.php on line 1703
+[08-Jan-2023 06:40:21 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45
+[08-Jan-2023 06:44:21 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45
+[08-Jan-2023 06:44:54 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45
+[08-Jan-2023 06:46:00 America/New_York] PHP Notice:  Undefined variable: rb in /home/scrixuez/public_html/aa-superhyip/users/form/signup.php on line 45

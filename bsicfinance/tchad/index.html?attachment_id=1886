@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CREDIT_IMMOBILIER | BSIC tchad SA</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://bsicbank.com/tchad/xmlrpc.php">
+        <script type="text/javascript">
+            var siteurl = 'https://bsicbank.com/tchad';
+            var jquery_calls_url = 'https://bsicbank.com/tchad/wp-content/themes/bsicbenin/jquery_calls.php';
+            var template_url ='https://bsicbank.com/tchad/wp-content/themes/bsicbenin';
+            var is_mobile=0;
+        </script>
+        <link rel="alternate" type="application/rss+xml" title="BSIC tchad SA &raquo; Flux" href="https://bsicbank.com/tchad/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BSIC tchad SA &raquo; Flux des commentaires" href="https://bsicbank.com/tchad/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BSIC tchad SA &raquo; CREDIT_IMMOBILIER Flux des commentaires" href="https://bsicbank.com/tchad/?attachment_id=1886/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/bsicbank.com\/tchad\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.35"}};
+			!function(e,n,t){var a;function o(e){var t=n.createElement("canvas"),a=t.getContext&&t.getContext("2d");return!(!a||!a.fillText)&&(a.textBaseline="top",a.font="600 32px Arial","flag"===e?(a.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),3e3<t.toDataURL().length):(a.fillText(String.fromCharCode(55357,56835),0,0),0!==a.getImageData(16,16,1,1).data[0]))}function i(e){var t=n.createElement("script");t.src=e,t.type="text/javascript",n.getElementsByTagName("head")[0].appendChild(t)}t.supports={simple:o("simple"),flag:o("flag")},t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.simple&&t.supports.flag||(a=function(){t.readyCallback()},n.addEventListener?(n.addEventListener("DOMContentLoaded",a,!1),e.addEventListener("load",a,!1)):(e.attachEvent("onload",a),n.attachEvent("onreadystatechange",function(){"complete"===n.readyState&&t.readyCallback()})),(a=t.source||{}).concatemoji?i(a.concatemoji):a.wpemoji&&a.twemoji&&(i(a.twemoji),i(a.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='advpsStyleSheet-css'  href='http://bsicbank.com/tchad/wp-content/plugins/advanced-post-slider/advps-style.css?ver=4.2.35' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://bsicbank.com/tchad/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://bsicbank.com/tchad/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.5' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='blain-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700&#038;ver=4.2.35' type='text/css' media='all' />
+<link rel='stylesheet' id='blain-basic-style-css'  href='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/style.css?ver=4.2.35' type='text/css' media='all' />
+<link rel='stylesheet' id='blain-layout-css'  href='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/css/layouts/content-sidebar.css?ver=4.2.35' type='text/css' media='all' />
+<link rel='stylesheet' id='blain-bootstrap-style-css'  href='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/css/bootstrap.min.css?ver=4.2.35' type='text/css' media='all' />
+<link rel='stylesheet' id='blain-main-style-css'  href='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/css/main.css?ver=4.2.35' type='text/css' media='all' />
+<link rel='stylesheet' id='blain-nivo-slider-default-theme-css'  href='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/css/nivo/themes/default/default.css?ver=4.2.35' type='text/css' media='all' />
+<link rel='stylesheet' id='xavier-style-css'  href='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/css/xavino.css?ver=4.2.35' type='text/css' media='all' />
+<link rel='stylesheet' id='blain-nivo-slider-style-css'  href='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/css/nivo/nivo.css?ver=4.2.35' type='text/css' media='all' />
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://bsicbank.com/tchad/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=4.2.35'></script>
+<script type='text/javascript' src='http://bsicbank.com/tchad/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=4.2.35'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.5'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/jquery.timeago.js?ver=4.2.35'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/collapse.js?ver=4.2.35'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/nivo.slider.js?ver=4.2.35'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/superfish.js?ver=4.2.35'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/bootstrap.min.js?ver=4.2.35'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/custom.js?ver=4.2.35'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/keyboard-image-navigation.js?ver=20120202'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bsicbank.com/tchad/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bsicbank.com/tchad/wp-includes/wlwmanifest.xml" /> 
+<link rel='canonical' href='https://bsicbank.com/tchad/?attachment_id=1886' />
+<link rel='shortlink' href='https://bsicbank.com/tchad/?p=1886' />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '712b39bc42';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"https://bsicbank.com/tchad/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<style></style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #eaeaea; }
+</style>
+
+<!-- BEGIN ExactMetrics v5.3.7 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-116878048-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+</head>
+
+<body class="attachment single single-attachment postid-1886 attachmentid-1886 attachment-jpeg custom-background group-blog">
+<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header row container" role="banner">
+            <div class="row topgb" style="">
+                <div class="site-branding col-md-4 old_slog">
+                    <span class="site_slogan">
+                                                BSIC, une vision, un instrument ...                                            </span>
+		</div>
+<!--                <div class="site-branding col-md-3">
+                    
+		</div>-->
+                <div class="site-branding col-md-6 old_contact">
+                    <span class="icontel">
+                                            (+235) 22 52 26 93&nbsp;&nbsp;&nbsp;                    				 </span>
+				 <span class="iconfax">
+                                            (+235) 22 52 26 92&nbsp;&nbsp;&nbsp;                    				 </span>
+                    <span class="iconmail">
+                                                <a href="" class="tx-button">bsic.chad@bsicbank.com</a>
+                                            </span>
+		</div>
+                <div class="site-branding col-md-2">
+                    <div  id="social-icons"> 
+                        <div class="">
+                                                                <a target='_blank' href="http://facebook.com/username/" title="Facebook" ><i class="social-icon icon-facebook-sign"></i></a>
+                                                                       </div>
+
+
+                    </div>
+		</div>
+            </div>
+		<div class="site-branding col-md-4">
+					<h1 class="site-title logo-container"><a href="https://bsicbank.com/tchad/" title="BSIC tchad SA" rel="home">
+			<img class='main_logo' src='http://bsicbank.com/tchad/wp-content/uploads/2018/03/logo_bsic-21.jpg' title='BSIC tchad SA'></a></h1> <h2 class="site-description">tchad SA</h2>
+					</div>
+        <div class="col-md-2" id="social-icons">
+             
+             
+            
+        </div>
+        <div class="col-md-6" style="padding:0px;text-align: center;margin-top: 5px;color: #000;">
+             
+            <div class="pub_top">
+                <form role="search" method="get" class="search-form" action="https://bsicbank.com/tchad/">
+                        <label>
+                                <span class="screen-reader-text">Rechercher&nbsp;:</span>
+                                <input type="search" class="search-field" placeholder="Recherche&hellip;" value="" name="s" title="Rechercher&nbsp;:" />
+                        </label>
+                        <input type="submit" class="search-submit iconsearch" value="" />
+                </form>            </div>
+        </div>
+        
+        </div>
+		
+	</header><!-- #masthead -->
+
+	<div class="nav-wrapper container">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav id="site-navigation" class="navbar navbar-default main-navigation" role="navigation">
+
+                                    <div class="navbar-header">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                                  <span class="sr-only">Toggle navigation</span>
+                                  <span class="icon-bar"></span>
+                                  <span class="icon-bar"></span>
+                                  <span class="icon-bar"></span>
+                                </button>
+                              </div>
+
+
+                                    <div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-menu-1" class="nav nav-justified"><li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a title="Accueil" href="https://bsicbank.com/tchad/">Accueil</a></li>
+<li id="menu-item-2238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2238 dropdown"><a title="Notre Banque" href="https://bsicbank.com/tchad/category/notre-banque/" data-toggle="dropdown" class="dropdown-toggle">Notre Banque <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2207" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2207"><a title="Historique" href="https://bsicbank.com/tchad/historique/">Historique</a></li>
+	<li id="menu-item-2208" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2208"><a title="Objectifs" href="https://bsicbank.com/tchad/objectifs/">Objectifs</a></li>
+</ul>
+</li>
+<li id="menu-item-47" class="prodWidth menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-47 dropdown"><a title="Nos produits et services" href="https://bsicbank.com/tchad/produits-services/" data-toggle="dropdown" class="dropdown-toggle">Nos produits et services <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2134"><a title="Nos produits" href="https://bsicbank.com/tchad/category/nos-produits-services/nos-produits/">Nos produits</a></li>
+	<li id="menu-item-2135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2135"><a title="Nos services" href="https://bsicbank.com/tchad/category/nos-produits-services/nos-services/">Nos services</a></li>
+	<li id="menu-item-2133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2133"><a title="Nos cartes bancaires" href="https://bsicbank.com/tchad/category/nos-produits-services/nos-cartes-bancaires/">Nos cartes bancaires</a></li>
+</ul>
+</li>
+<li id="menu-item-2236" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2236 dropdown"><a title="Nos offres" href="https://bsicbank.com/tchad/category/nos-offres/" data-toggle="dropdown" class="dropdown-toggle">Nos offres <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2222"><a title="Particuliers" href="https://bsicbank.com/tchad/category/nos-offres/clientele-des-particuliers/">Particuliers</a></li>
+	<li id="menu-item-2221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2221"><a title="Entreprises" href="https://bsicbank.com/tchad/category/nos-offres/clientele-des-entreprises/">Entreprises</a></li>
+</ul>
+</li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-46 dropdown"><a title="Notre Réseau" href="https://bsicbank.com/tchad/reseaux/" data-toggle="dropdown" class="dropdown-toggle">Notre Réseau <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2142"><a title="Nos points de vente" href="https://bsicbank.com/tchad/category/notre-reseau/nos-points-de-vente/">Nos points de vente</a></li>
+</ul>
+</li>
+<li id="menu-item-2239" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2239 dropdown"><a title="Nos publications" href="https://bsicbank.com/tchad/category/nos-publications/" data-toggle="dropdown" class="dropdown-toggle">Nos publications <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1622"><a title="Rapport annuel" href="https://bsicbank.com/tchad/category/nos-publications/rapport-annuel/">Rapport annuel</a></li>
+</ul>
+</li>
+<li id="menu-item-2237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-2237 dropdown"><a title="Vos Projets" href="https://bsicbank.com/tchad/category/vos-projets/" data-toggle="dropdown" class="dropdown-toggle">Vos Projets <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2212" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2212"><a title="Crédit Bsic-pro" href="https://bsicbank.com/tchad/credit-bsic-pro/">Crédit Bsic-pro</a></li>
+	<li id="menu-item-2216" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2216"><a title="Crédit Equipement" href="https://bsicbank.com/tchad/credit-equipement-2/">Crédit Equipement</a></li>
+	<li id="menu-item-2217" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2217"><a title="Crédit Express" href="https://bsicbank.com/tchad/credit-express/">Crédit Express</a></li>
+	<li id="menu-item-2218" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2218"><a title="Crédit Scolaire" href="https://bsicbank.com/tchad/credit-scolaire-2/">Crédit Scolaire</a></li>
+	<li id="menu-item-2235" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2235"><a title="Prêt Islamique (Mourabaha)" href="https://bsicbank.com/tchad/credit-mourabaha/">Prêt Islamique (Mourabaha)</a></li>
+</ul>
+</li>
+<li id="menu-item-149" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-149 dropdown"><a title="Accéder à vos comptes" target="_blank" href="#" data-toggle="dropdown" class="dropdown-toggle">Accéder à vos comptes <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-1417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1417"><a title="Entreprise" target="_blank" href="https://ebank.bsictchad.com/corporate/index.ebk">Entreprise</a></li>
+	<li id="menu-item-1418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1418"><a title="particulier" target="_blank" href="https://ebank.bsictchad.com/retail/index.ebk">particulier</a></li>
+</ul>
+</li>
+</ul></div>                    </nav><!-- #site-navigation -->
+                </div>
+                
+            </div>
+        </div>
+	<div id="content" class="site-content row container" style="">
+	
+	<div id="primary" class="content-area image-attachment">
+		<main id="main" class="site-main" role="main">
+
+		
+			<article id="post-1886" class="post-1886 attachment type-attachment status-inherit hentry">
+				<header class="entry-header">
+					<h1 class="entry-title">CREDIT_IMMOBILIER</h1>
+					<div class="entry-meta">
+						Published <span class="entry-date"><time class="entry-date" datetime="2018-03-16T09:23:18+00:00">16 mars 2018</time></span> at <a href="https://bsicbank.com/tchad/wp-content/uploads/2018/03/CREDIT_IMMOBILIER.jpg">1170 &times; 250</a> in <a href="https://bsicbank.com/tchad/?attachment_id=1886" rel="gallery">CREDIT_IMMOBILIER</a>					</div><!-- .entry-meta -->
+
+					<nav role="navigation" id="image-navigation" class="image-navigation">
+						<div class="nav-previous"><a href='https://bsicbank.com/tchad/?attachment_id=1885'><span class="meta-nav">&larr;</span> Previous</a></div>
+						<div class="nav-next"><a href='https://bsicbank.com/tchad/?attachment_id=1887'>Next <span class="meta-nav">&rarr;</span></a></div>
+					</nav><!-- #image-navigation -->
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+					<div class="entry-attachment">
+						<div class="attachment">
+							<a href="https://bsicbank.com/tchad/?attachment_id=1887" rel="attachment"><img width="1170" height="250" src="https://bsicbank.com/tchad/wp-content/uploads/2018/03/CREDIT_IMMOBILIER.jpg" class="attachment-1200x1200" alt="CREDIT_IMMOBILIER" /></a>						</div><!-- .attachment -->
+
+											</div><!-- .entry-attachment -->
+
+									</div><!-- .entry-content -->
+
+							</article><!-- #post-## -->
+
+			
+	<div id="comments" class="comments-area">
+
+	
+	
+		
+	
+	
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title">Laisser un commentaire <small><a rel="nofollow" id="cancel-comment-reply-link" href="/tchad/?attachment_id=1886#respond" style="display:none;">Annuler la réponse.</a></small></h3>
+									<form action="https://bsicbank.com/tchad/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																			<p class="comment-notes"><span id="email-notes">Votre adresse de messagerie ne sera pas publiée.</span> Les champs obligatoires sont indiqués avec <span class="required">*</span></p>							<div class="form-group"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" class="form-control" type="text" value="" size="30" aria-required='true' /></div>
+<div class="form-group"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" class="form-control" type="text" value="" size="30" aria-required='true' /></div>
+<div class="form-group><label for="url">Website</label><input id="url" name="url" class="form-control" type="text" value="" size="30" /></div>
+												<div class="form-group"><label for="comment">Commentaire</label><textarea id="comment" class="form-control" name="comment" cols="45" rows="8" aria-required="true"></textarea></div>						<p class="form-allowed-tags" id="form-allowed-tags">Vous pouvez utiliser ces balises et attributs <abbr title="HyperText Markup Language">HTML</abbr>&nbsp;:  <code>&lt;a href=&quot;&quot; title=&quot;&quot;&gt; &lt;abbr title=&quot;&quot;&gt; &lt;acronym title=&quot;&quot;&gt; &lt;b&gt; &lt;blockquote cite=&quot;&quot;&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=&quot;&quot;&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=&quot;&quot;&gt; &lt;s&gt; &lt;strike&gt; &lt;strong&gt; </code></p>
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Laisser un commentaire" /> <input type='hidden' name='comment_post_ID' value='1886' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments -->
+
+		
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->	
+		
+	<footer id="colophon" class="site-footer container row" role="contentinfo">
+            <div class="container" style="padding-bottom: 20px;">
+      <div class="row">	  
+        <div class="col-xs-6 col-md-2">
+              <div class="f_divid">
+                    <nav>
+                      <h4>QUI SOMMES NOUS ?</h4>
+                       <div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-propos" class="nav nav-stacked"><li id="menu-item-2257" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2257"><a title="Notre Banque" href="https://bsicbank.com/tchad/category/notre-banque/">Notre Banque</a></li>
+<li id="menu-item-2251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2251"><a title="Publications" href="https://bsicbank.com/tchad/category/nos-publications/">Publications</a></li>
+</ul></div>                    </nav>
+              </div>
+            </div>
+          <div class="col-xs-6 col-md-2">
+              <div class="f_divid">
+                    <nav>
+                      <h4>PRODUITS & SERVICES</h4>
+                      <ul class="nav nav-stacked">
+                          <div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-produits" class="nav nav-stacked"><li id="menu-item-2248" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2248"><a title="Nos produits" href="https://bsicbank.com/tchad/category/nos-produits-services/nos-produits/">Nos produits</a></li>
+<li id="menu-item-2249" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2249"><a title="Particuliers" href="https://bsicbank.com/tchad/category/nos-offres/clientele-des-particuliers/">Particuliers</a></li>
+<li id="menu-item-2250" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2250"><a title="Entreprises" href="https://bsicbank.com/tchad/category/nos-offres/clientele-des-entreprises/">Entreprises</a></li>
+</ul></div>                    </nav>
+              </div>
+            </div> 
+            <div class="col-xs-6 col-md-2">
+                <div class="f_divid" >
+                      <nav>
+                        <h4>DEVENEZ CLIENT</h4>
+                        <ul class="nav nav-stacked">
+                            <div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-devenez-client" class="nav nav-stacked"><li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a title="Pourquoi nous choisir?" href="https://bsicbank.com/tchad/pourquoi-nous-choisir/">Pourquoi nous choisir?</a></li>
+</ul></div>                      </nav>
+                </div>
+          </div>
+          <div class="col-xs-6 col-md-3">
+              <div class="f_divid" style="">
+                    <nav>
+                      <h4>REALISEZ VOS PROJETS</h4>
+                       <div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-vos-projets" class="nav nav-stacked"><li id="menu-item-2252" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2252"><a title="Crédit Bsic-pro" href="https://bsicbank.com/tchad/credit-bsic-pro/">Crédit Bsic-pro</a></li>
+<li id="menu-item-2253" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2253"><a title="Crédit Equipement" href="https://bsicbank.com/tchad/credit-equipement-2/">Crédit Equipement</a></li>
+<li id="menu-item-2254" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2254"><a title="Crédit Express" href="https://bsicbank.com/tchad/credit-express/">Crédit Express</a></li>
+<li id="menu-item-2255" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2255"><a title="Crédit Scolaire" href="https://bsicbank.com/tchad/credit-scolaire-2/">Crédit Scolaire</a></li>
+<li id="menu-item-2256" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2256"><a title="Prêt Islamique (Mourabaha)" href="https://bsicbank.com/tchad/credit-mourabaha/">Prêt Islamique (Mourabaha)</a></li>
+</ul></div>                    </nav>
+              </div>
+            </div>
+          <div class="col-xs-6 col-md-3">
+              <div class="f_divid" style="border:0px;">
+                    <nav>
+                      <h4>BESOIN D’AIDE ?</h4>
+                       <div class="collapse navbar-collapse navbar-ex1-collapse"><ul id="menu-aide" class="nav nav-stacked"><li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a title="Nous contacter" href="https://bsicbank.com/tchad/nous-contacter/">Nous contacter</a></li>
+<li id="menu-item-724" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-724"><a title="Signaler un message ou un site frauduleux" href="https://bsicbank.com/tchad/alertez-nous/">Signaler un message ou un site frauduleux</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a title="Question/Réponse" href="https://bsicbank.com/tchad/questionreponse/">Question/Réponse</a></li>
+<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a title="Lexique des termes bancaires" href="https://bsicbank.com/tchad/lexique-des-termes-bancaires/">Lexique des termes bancaires</a></li>
+</ul></div>                    </nav>
+              </div>
+            </div>
+        </div>
+    </div>
+    <div class="container post_footer ">
+        <div class="row">
+            <div class="col-md-12">
+                <nav>
+                       <div class="collapse navbar-collapse navbar-ex1-collapse "><ul id="menu-post-footer" class="nav postfooter"><li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a title="Mentions légales" href="https://bsicbank.com/tchad/mentions-legales/">Mentions légales</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a title="Politique de confidentialité" href="https://bsicbank.com/tchad/politiques-de-confidentialite/">Politique de confidentialité</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a title="Plan du site" href="https://bsicbank.com/tchad/plan-du-site/">Plan du site</a></li>
+</ul></div>                    </nav>
+                <div id="footertext">
+                    © BSIC TCHAD SA.Tous droits réservés 2011 - 2023                </div> 
+            </div>
+        </div>	
+    </div>	
+		
+                
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/bsicbank.com\/tchad\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Envoi en cours ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-content/themes/bsicbenin/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='https://bsicbank.com/tchad/wp-includes/js/comment-reply.min.js?ver=4.2.35'></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+body {
+	background-color: #62759d;
+}
+
+.treeview-menu {
+	padding-left: 0;
+}
+
+.treeview-menu > li > a {
+    padding: 10px 10px 10px 15px;
+}
+
+.main-header .navbar {
+	background-color: var(--dark);
+}
+
+.main-sidebar a {
+	color: white;
+}
+
+.main-header .sidebar-toggle {
+	color: white !important;
+	cursor: pointer;
+}
+
+.sidebar-menu > li {
+	margin: 10px 5px;
+    background-color: #d3d3d366;
+    height: 100%;
+    border-radius: 4px;
+}
+
+.sidebar-menu > li.menu-open {
+	background-color: #99c7df80;
+}
+
+li.menu-open .treeview-menu > li > a:hover {
+	background-color: #9fc9cd;
+}
+
+.main-header .sidebar-toggle {
+    padding: 0px;
+};

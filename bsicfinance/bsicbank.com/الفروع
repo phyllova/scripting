@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="HTML5 Template" />
+<meta name="description" content="Real Villa - Real Estate HTML5 Template" />
+<meta name="author" content="potenzaglobalsolutions.com" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>الفروع والشركات التابعة</title>
+	
+   	
+
+<!-- Favicon -->
+<link rel="shortcut icon" href="https://bsicbank.com/images/favicon.png" />
+
+<!-- Google Font -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:300,500,600,700%7CRoboto:300,400,500,700">
+
+<!-- CSS Global Compulsory (Do not remove)-->
+<link rel="stylesheet" href="https://bsicbank.com/css/font-awesome/all.min.css" />
+<link rel="stylesheet" href="https://bsicbank.com/css/flaticon/flaticon.css" />
+<link rel="stylesheet" href="https://bsicbank.com/css/bootstrap/bootstrap.css" />
+<link rel="stylesheet" href="/css/iMarquee.css?v=1" type="text/css">
+
+<!-- Page CSS Implementing Plugins (Remove the plugin CSS here if site does not use that feature)-->
+<link rel="stylesheet" href="https://bsicbank.com/css/select2/select2.css" />
+<link rel="stylesheet" href="https://bsicbank.com/css/range-slider/ion.rangeSlider.css" />
+<link rel="stylesheet" href="https://bsicbank.com/css/owl-carousel/owl.carousel.min.css" />
+<link rel="stylesheet" href="https://bsicbank.com/css/magnific-popup/magnific-popup.css" />
+<link href="https://fonts.googleapis.com/css?family=Almarai&display=swap" rel="stylesheet">
+<!-- Template Style -->
+<link rel="stylesheet" href="https://bsicbank.com/css/style.css?v=9.7" />
+
+<script type="text/javascript">// <!&#91;CDATA&#91;
+function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+            pagelink = '<br /><br />' + 'https://bsicbank.com/post.php?id=';
+            copytext = selection + pagelink,
+            newdiv = document.createElement('div');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+            document.body.removeChild(newdiv);
+        }, 100);
+    }
+
+    document.addEventListener('copy', addLink);</script>	
+	
+	
+</head>
+
+<body><!--================================= header -->
+<header class="header">
+  <div class="topbar">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-12">
+          <div class="d-block d-md-flex align-items-center text-center">
+            <div class="mr-auto d-inline-block">
+              <ul class="lang">
+                <li><a href="/fra">Français</a></li>
+                <li><a href="/eng">English</a></li>
+                <li><a href="/">العربية</a></li>
+              </ul>
+            </div>
+            <div class="social d-inline-block">
+              <ul class="list-unstyled">
+                <li><a href="https://www.facebook.com/bsicbankcom" target="_blank"> <i class="fab fa-facebook-f"></i> </a></li>
+                <li><a href="https://twitter.com/bsicbankcom" target="_blank"> <i class="fab fa-twitter"></i> </a></li>
+                <li><a href="https://www.youtube.com/channel/UCNUgOgAjd7NVki8HD2OsulA" target="_blank"> <i class="fab fa-youtube"></i> </a></li>
+<!--                <li><a href="#"> <i class="fab fa-pinterest"></i> </a></li>-->
+                <li><a href="https://instagram/bsicbankcom"  target="_blank"> <i class="fab fa-instagram"></i> </a></li>
+              </ul>
+            </div>
+            <div class="login d-inline-block"> <a   href="https://sso.secureserver.net/?app=email&realm=pass">بوابة البريد الإلكتروني<i class="fa fa-user pl-2"></i></a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <nav class="navbar navbar-light bg-white navbar-static-top navbar-expand-lg header-sticky">
+    <div class="container-fluid">
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target=".navbar-collapse"><i class="fas fa-align-left"></i></button>
+      <a class="navbar-brand" href="index.html"> <img class="img-fluid" src="https://bsicbank.com/images/logo.png" alt="logo"> </a>
+      <div class="navbar-collapse collapse justify-content-center">
+		  
+		  
+        <ul class="nav navbar-nav">
+			<li class="nav-item Active"><a class="nav-link" href="https://bsicbank.com/index.php">الرئيسية</a></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="https://bsicbank.com/%D9%86%D8%A8%D8%B0%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">نبذة عن المصرف<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="https://bsicbank.com/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%86%D8%A7">تاريخنا</a></li><li><a class="dropdown-item" href="https://bsicbank.com/%D8%A3%D9%87%D8%AF%D8%A7%D9%81%D9%86%D8%A7">أهدافنا</a></li><li><a class="dropdown-item" href="https://bsicbank.com/%D9%82%D9%8A%D9%85%D9%86%D8%A7">قيمنا</a></li><li><a class="dropdown-item" href="https://bsicbank.com/%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%85%D9%88%D8%AD">الرؤية و الطموح</a></li></ul></li><li class="nav-item "><a class="nav-link" href="https://bsicbank.com/%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B9">الفروع والشركات التابعة </a></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="https://bsicbank.com/%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">الإدارة<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="https://bsicbank.com/%D9%83%D9%84%D9%85%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9">كلمة رئيس مجلس الإدارة</a></li><li><a class="dropdown-item" href="https://bsicbank.com/%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A">الهيكل التنظيمي</a></li></ul></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="https://bsicbank.com/%D9%86%D8%AA%D8%A7%D8%A6%D8%AC-%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">نتائج و تقارير<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="https://bsicbank.com/category/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1">تقارير</a></li><li><a class="dropdown-item" href="https://bsicbank.com/category%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D8%A7%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A%D8%A7%D8%AA">أرقام و إحصائيات</a></li><li><a class="dropdown-item" href="https://bsicbank.com/kyc-documents">BSIC KYC Documents</a></li></ul></li><li class="nav-item dropdown "><a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">المركز الإعلامي<i class="fas fa-chevron-down fa-xs"></i></a><ul class="dropdown-menu" aria-labelledby="navbarDropdown"><li><a class="dropdown-item" href="https://bsicbank.com//category/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1">أخبار</a></li><li><a class="dropdown-item" href="https://bsicbank.com//category/%D9%84%D9%82%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA">لقاءات بيانات</a></li><li><a class="dropdown-item" href="https://bsicbank.com//category/%D8%A7%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D9%88%D8%B1">الملف المصور</a></li><li><a class="dropdown-item" href="https://bsicbank.com//category/%D8%A7%D9%86%D9%81%D9%88%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83">انفوجرافيك</a></li></ul></li><li class="nav-item "><a class="nav-link" href="https://bsicbank.com/%D9%84%D9%84%D8%A5%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D9%86%D8%A7">للإتصال بنا</a></li>        </ul>
+      </div>
+      <div class="add-listing d-none d-sm-block"> <img src="/images/logo.png" class="site-logo" alt=""/> 
+        <!--   <a class="btn btn-primary btn-md" href="submit-property.html"> <i class="fa fa-plus-circle"></i>Add listing </a>--> 
+      </div>
+    </div>
+  </nav>
+
+	
+	
+</header>
+
+
+
+<div class="container" style="background-color: #ddd; height: 40px; 
+border: 1px solid #ccc; border-top:0px; 
+border-bottom-left-radius: 4px;border-bottom-right-radius: 4px; padding: 0px !important">
+<div class="ticker-lable">آخر الأخبار</div>	
+	
+	<div class="ticker-content">
+			<div class="anyClass mWrap">
+			<a href="/متابعات-ver2">#متابعات</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/ورشة-عمل-بعنوان-المبادىء-القانونية-والتنظيمية-للتأمين-بمصرف-الساحل-والصحراء-التابع-في-السودان">ورشة عمل بعنوان  "المبادىء القانونية والتنظيمية للتأمين" بمصرف الساحل والصحراء التابع في السودان</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/اجتماعات">اجتماعات</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/وفد-مصرف-الساحل-والصحراء-للاستثمار-والتجارة-يلتقي-رئيس-دولة-النيجر-في-العاصمة-النيجيرية-نيامي">وفد مصرف الساحل والصحراء للاستثمار والتجارة يلتقي رئيس دولة النيجر في العاصمة النيجيرية نيامي</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/ورشة-عمل-حول-مبادرة-التمكين-الاقتصادي">ورشة عمل حول مبادرة التمكين الاقتصادي</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/اختتام-البرنامج-التدريبي-في-مجال-الاتيكيت-والسلامة-المهنية">اختتام البرنامج التدريبي في مجال الاتيكيت والسلامة المهنية</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/مجلس-إدارة-مصرف-الساحل-والصحراء-للاستثمار-والتجارة-يعقد-اجتماعه-الدوري-العادي-">مجلس إدارة مصرف الساحل والصحراء للاستثمار والتجارة يعقد اجتماعه الدوري العادي </a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/صور-مصرف-الساحل-والصحراء-للاستثمار-والتجارة-يفتتح-المبنى-الرئيسي-للفرع-التابع-بالعاصمة-لومي-بدولة-التوغو-وسط-حضور-رسمي-وشعبي-كبير-،-حيث-حضر-الافتتاح-رئيس-مجلس-الإدارة-المدير-العام-واعضاء-مجلس-إدارة-مصرف-الساحل-والصحراء-للاستثمار-والتجارة-وامين-تجمع-الساحل-والصحراء-ووزيري-الاقتصاد-والمالية-بدولة-التوغو-وعدد-من-المسؤولين-والاعيان-بدولة-التوغو-">صور : مصرف الساحل والصحراء للاستثمار والتجارة يفتتح المبنى الرئيسي للفرع التابع بالعاصمة لومي بدولة التوغو وسط حضور رسمي وشعبي كبير ، حيث حضر الافتتاح رئيس مجلس الإدارة المدير العام واعضاء مجلس إدارة مصرف الساحل والصحراء للاستثمار والتجارة وامين تجمع الساحل والصحراء ووزيري الاقتصاد والمالية بدولة التوغو وعدد من المسؤولين والاعيان بدولة التوغو .</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/رئيس-مجلس-إدارة-المصرف-يجتمع-بمدراء-الفروع-التابعة-بكافة-الدول-الأفريقية-">رئيس مجلس إدارة المصرف يجتمع بمدراء الفروع التابعة بكافة الدول الأفريقية ..</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/اختتام-دورة-تدريبية-في-مجال-مكافحة-غسل-الأموال-ومحاربة-الإرهاب-بفرع-المصرف-التابع-في-السودان">اختتام دورة تدريبية في مجال مكافحة غسل الأموال ومحاربة الإرهاب بفرع المصرف التابع في السودان</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/اختتام-ورشة-عمل-استراتيجية-التحول">اختتام ورشة عمل "استراتيجية التحول"</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/الإدارة-التنفيذية-تجتمع-بمدراء-الفروع-التابعة-في-غرب-افريقيا-">الإدارة التنفيذية تجتمع بمدراء الفروع التابعة في غرب افريقيا </a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/الإدارة-التنفيذية-للمجموعة-المصرفية-الساحل-والصحراء-للاستثمار-والتجارة-تقوم-بزيارة-ميدانية-لمتابعة-المشروعات-التي-تم-تمويلها-عن-طريق-الفرع-التابع-في-دولة-غينيا-كوناكري-،-حيث-التزم-الممول-بشروط-التمويل-من-ناحية-التنفيذ-والدفع-وفق-السياسة-الائتمانية-المعتمدة-بالمصرف-">الإدارة التنفيذية للمجموعة المصرفية الساحل والصحراء للاستثمار والتجارة تقوم بزيارة ميدانية لمتابعة المشروعات التي تم تمويلها عن طريق الفرع التابع في دولة غينيا كوناكري ، حيث التزم الممول بشروط التمويل من ناحية التنفيذ والدفع وفق السياسة الائتمانية المعتمدة بالمصرف .</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/الإدارة-التنفيذية-لمصرف-الساحل-والصحراء-تجتمع-بوزيري-المالية-والخارجية-ومحافظ-المصرف-المركزي-بغينيا-كوناكري-">الإدارة التنفيذية لمصرف الساحل والصحراء تجتمع بوزيري المالية والخارجية ومحافظ المصرف المركزي بغينيا كوناكري </a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/انتهاء-فعاليات-الورشة-الأولى-لتنفيذ-آليات-محور-الموارد-البشرية-بالمصارف-التابعة-حيث-ضم-اللقاء-الخبير-المختص-ومدير-مكتب-التحول-ومدراء-إدارات-الموارد-البشرية-بالمصارف-التابعة-">انتهاء فعاليات الورشة الأولى لتنفيذ آليات محور الموارد البشرية بالمصارف التابعة . حيث ضم اللقاء الخبير المختص ومدير مكتب التحول ومدراء إدارات الموارد البشرية بالمصارف التابعة .</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/اجتماع-بشأن-مشروع-طريق-العبور-مصراتة-تمنهت-أغاديس">اجتماع بشأن مشروع طريق العبور مصراتة تمنهت أغاديس.</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/متابعات">متابعات</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/مجلس-إدارة-مصرف-الساحل-والصحراء-للإستثمار-والتجارة-يعقد-اجتماعه-رقم-2284-">مجلس إدارة مصرف الساحل والصحراء للإستثمار والتجارة يعقد اجتماعه رقم (22/84) .</a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/تمهيداً-لاجتماع-مجلس-الإدارة-لجنة-الامتثال-بالمصرف-تعقد-اجتماعها-">تمهيداً لاجتماع مجلس الإدارة: لجنة الامتثال بالمصرف تعقد اجتماعها </a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+<a href="/تمهيداً-لاجتماع-مجلس-الإدارة-لجنة-التعيينات-والمكافآت-بالمصرف-تعقد-اجتماعها-">تمهيداً لاجتماع مجلس الإدارة: لجنة التعيينات والمكافآت بالمصرف تعقد اجتماعها </a> <a href="#" ><img src="/images/ticker.png" width="45"  class="ticker-icon" /></a>
+
+			</div>
+		</div>	
+</div>	
+
+<!--=================================  header --> 
+<section class="banner banner-property">
+  <div class="owl-carousel owl-nav-top-right" id="splash"  name="splash" data-animateOut="fadeOut" data-nav-arrow="false" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="0">
+    <div class="item">
+      <div class="property-offer">
+        <div class="property-offer-item"> <img src="images/inner2.jpg"  alt=""/> </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--=================================
+breadcrumb -->
+<div class="bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+          <ol class="breadcrumb mb-0">
+            <li class="breadcrumb-item"><a href="/"> <i class="fas fa-home"></i> </a></li>
+<!--            <li class="breadcrumb-item"> <i class="fas fa-chevron-right"></i> <a href="#">Blog</a></li>-->
+            <li class="breadcrumb-item active"> <i class="fas fa-chevron-left"></i> <span>الفروع والشركات التابعة </span></li>
+          </ol>
+      </div>
+    </div>
+  </div>
+</div>
+<!--================================= breadcrumb -->
+
+<!--================================= blog-detail -->
+<section class="space-ptb">
+  <div class="container">
+    <div class="row-content">
+     <div class="col-xs-8"  style="float: right;">
+        <div class="blog-detail">
+          <div class="blog-post">
+            <div class="blog-post-title">
+              <h2>الفروع والشركات التابعة</h2>
+            </div>
+
+		  
+<style>
+
+	.owl-carousel .owl-item img {height: auto !important;}
+	
+.blog-post-description table.management { font-size:14px !important; text-align: right;}
+	.blog-post-description table.management td { padding:4px;}	
+
+	
+.blog-post-description table.management tr:nth-child(even) {
+ background-color: #efefef;
+}
+	
+.blog-post-description table.management td:nth-child(1) {
+	width:5%;
+}	
+	
+.blog-post-description table.management thead tr {
+ background-color: #333; color:#FFF;
+}	
+	
+.blog-post-description table.management td:nth-child(2) {
+	width:35%;
+}	
+	
+.blog-post-description table.management td:nth-child(3) {
+	width:30%;
+}	
+.blog-post-description table.management td:nth-child(4) {
+	width:25%;
+}	
+/*-----------------------------*/	
+	
+.blog-post-description table.branches tr:nth-child(even) {
+ background-color: #efefef;
+}
+	
+.blog-post-description table.branches thead tr {
+ background-color: #333; color:#FFF;
+}	
+.blog-post-description table.branches td:nth-child(1) {
+	width:5%;
+}	
+.blog-post-description table.branches td:nth-child(2) {
+	width:20%;
+}	
+	
+.blog-post-description table.branches td:nth-child(3) {
+	width:5%;
+}	
+.blog-post-description table.branches td:nth-child(4) {
+	width:20%;
+}	
+}	
+/*-----------------------------*/	
+.contact-form ul { list-style:none; margin-right: 0px !important; padding-right: 0px !important;}	
+.contact-form ul li { overflow:hidden; padding: 5px;}
+.contact-form ul li div.lable { float:right; width:25%;}	
+.contact-form ul li div.form-field{ float:right; width:75%;}
+.contact-form ul li div.form-field input{ border:1px solid #ccc; border-radius: 4px;}	
+.contact-form ul li div.form-field textarea{ border:1px solid #ccc; border-radius: 4px; width:100%}		
+</style>			  
+  
+            <div class="blog-post-content border-0">
+              <div class="blog-post-description">
+                <p class="mb-0">
+<p>فروع مصرف الساحل و الصحراء للاستثمار والتجارة والشركات التابعة :</p>
+<div>
+	<table class="branches">
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>ليبيا</td>
+				<td>15</td>
+				<td>شركة القافلة للتأمين-ليبيا</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>السنغال</td>
+				<td>16</td>
+				<td>شركة الصحاري للمقاولات المحدودة -السودان&nbsp;</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>بنين</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>السودان</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+			<tr>
+				<td>5</td>
+				<td>بوركينا فاسو</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td>تشاد</td>
+				<td><br />
+					</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>7</td>
+				<td>افريقيا الوسطى</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>التوجو</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+			<tr>
+				<td>9</td>
+				<td>غامبيا</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+			<tr>
+				<td>10</td>
+				<td>غينيا كونكري</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+			<tr>
+				<td>11</td>
+				<td>غانا</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+			<tr>
+				<td>12</td>
+				<td>كوت ديفوار</td>
+				<td><br />
+					</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>13</td>
+				<td>مالي</td>
+				<td><br />
+					</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>14</td>
+				<td>النيجر</td>
+				<td><br />
+					</td>
+				<td><br />
+					</td>
+			</tr>
+		</tbody>
+	</table></div> 	
+
+     
+
+
+
+</p>
+				  
+				  
+
+				  
+				 				  
+              </div>
+
+
+              </div>
+            </div>
+          </div>
+        </div>
+     <div class="col-xs-4" style="float: right;">
+     			 
+		 
+          <div class="blog-sidebar">
+<!--            <div class="widget">
+              <div class="widget-title">
+                <h6>ابحث في الموقع </h6>
+              </div>
+              <div class="search">
+                <i class="fas fa-search"></i>
+                <input type="text" class="form-control" placeholder="Search....">
+              </div>
+            </div>-->
+            <div class="widget">
+              <div class="widget-title">
+                <h6>الرؤية و الطموح</h6>
+              </div>
+              <div class="owl-carousel owl-nav-center"  id="vision" name="vision" data-nav-dots="true" data-items="1" data-md-items="1" data-sm-items="1" data-xs-items="1" data-xx-items="1" data-space="0">
+            <div class="item">
+              <div class="testimonial-02 testimonial-02-small">
+                <div class="testimonial-content">
+                  <p><i class="fas fa-quote-right quotes"></i><span style="font-size: large; font-weight: bold;">رؤيتنا:</span>
+<div>مصرف إقليمي عالمي رائد وشامل، يتمسك بالتنمية ومحاربة الفقر والمثل والقيم الاخلاقية الرفيعة ، ويحقق المعايير الدولية للعمل المصرفي ، ويشارك في تنمية الاقتصاد لدول تجمع الساحل والصحراء والقارة الافريقية والعالم.</div>
+
+
+
+
+</p>
+                </div>
+              </div>
+            </div>
+			  
+            <div class="item">
+              <div class="testimonial-02 testimonial-02-small">
+                <div class="testimonial-content">
+                  <p><i class="fas fa-quote-right quotes"></i>
+<div><span style="font-size: large; font-weight: bold;">طموحنا:</span></div>
+<div>
+	<ul>
+		<li>تقديم حلول مالية مبتكرة.</li>
+		<li>تقديم خدمات عالية الجودة للعملاء . والعمل على تعظيم العائدات للمساهمين والشركاء.</li>
+		<li>احتضان بيئة عمل داخلية متميزة في أفرادها ، وفي المستوى التقني المتميز.</li>
+	</ul></div>
+
+
+
+
+</p>
+                </div>
+              </div>
+            </div>				  
+
+              </div>
+            </div>			  
+
+          </div>        </div>
+      </div>
+    </div>
+</section>
+<!--=================================
+blog-detail -->
+
+<!--=================================
+newsletter -->
+<section class="py-5 bg-primary">
+  <div class="container">
+    <div class="row">
+
+    </div>
+  </div>
+</section>
+<!--=================================
+newsletter -->
+
+<!--=================================
+footer-->
+
+<!--================================= sfooter-->
+<footer class="footer bg-dark space-pt">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-3 col-md-6">
+        <div class="footer-contact-info">
+
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mt-4 mt-md-0">
+        <div class="footer-link">
+          <h5 class="text-primary mb-4">المركز الإعلامي</h5>
+          <ul class="list-unstyled mb-0">
+			<li class="nav-item"><a class="nav-link Active" href="https://bsicbank.com//category/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1">أخبار</a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com//category/%D8%A7%D9%84%D9%85%D9%84%D9%81-%D8%A7%D9%84%D9%85%D8%B5%D9%88%D8%B1">الملف المصور</a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com//category/%D8%A7%D9%86%D9%81%D9%88%D8%AC%D8%B1%D8%A7%D9%81%D9%8A%D9%83">انفوجرافيك</a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com//category/%D9%84%D9%82%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA">لقاءات بيانات</a></li>          </ul>
+
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+       <div class="footer-link">
+          <h5 class="text-primary mb-4">روابط داخلية</h5>
+          <ul class="list-unstyled mb-0">
+			<li class="nav-item"><a class="nav-link Active" href="https://bsicbank.com/%D9%86%D8%A8%D8%B0%D8%A9-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%81">نبذة عن المصرف</a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com/%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-%D8%A7%D9%84%D8%B7%D9%85%D9%88%D8%AD">الرؤية و الطموح</a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com/%D8%A7%D9%84%D9%87%D9%8A%D9%83%D9%84-%D8%A7%D9%84%D8%AA%D9%86%D8%B8%D9%8A%D9%85%D9%8A">الهيكل التنظيمي</a></li><li class="nav-item"><a class="nav-link " href="https://bsicbank.com/%D8%A7%D9%84%D9%81%D8%B1%D9%88%D8%B9">الفروع والشركات التابعة </a></li>          </ul>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 mt-4 mt-lg-0">
+        <div class="footer-contact-info">
+			
+			 
+<h5 class="text-primary mb-4">للإتصال بنا</h5>
+<ul class="list-unstyled mb-0">
+	<li>طريق قرجي (المدينة السياحية) </li>
+	<li>صندوق البريد : 93221 طرابلس - ليبيا</li>
+	<li>الهاتف : 50 21 484 21 218+</li>
+	<li>الفاكس : 52 21 484 21 218+</li>
+</ul>     	
+
+     
+
+
+
+<!--  <h5 class="text-primary mb-4">للإتصال بنا</h5>
+          <p class="text-white mb-4"></p>
+          <ul class="list-unstyled mb-0">
+			 
+            <li> <b> <i class="fas fa-map-marker-alt"></i></b><span>طريق قرجي (المدينة السياحية) </span> </li>
+            <li> <b><i class="fas fa-microphone-alt"></i></b><span>صندوق البريد : 93221 طرابلس - ليبيا</span> </li>
+			<li> <b><i class="fas fa-microphone-alt"></i></b><span>50 21 484 21 218+</span> </li>  
+            <li> <b><i class="fas fa-headset"></i></b><span>
+52 21 484 21 218+</span> </li>
+          </ul>-->
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-4 text-center text-md-left"> <a href="index.html"><img class="img-fluid footer-logo" src="images/footer-logo.png" alt=""> </a> </div>
+        <div class="col-md-4 text-center my-3 mt-md-0 mb-md-0"> <a id="back-to-top" class="back-to-top" href="#"><i class="fas fa-angle-double-up"></i> </a> </div>
+        <div class="col-md-4 text-center text-md-right">
+          <p class="mb-0 text-white"> &copy; <span id="copyright"> <script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> جميع الحقوق محفوظة </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--=================================
+footer--> 
+
+<!--=================================
+Javascript --> 
+
+<!-- JS Global Compulsory (Do not remove)--> 
+<script src="/js/jquery-3.4.1.min.js"></script>
+<script src="/js/vertex.js"></script> 
+<script src="/js/datepicker-ar.js"></script> 
+<script src="/js/popper/popper.min.js"></script> 
+<script src="/js/bootstrap/bootstrap.min.js"></script> 
+
+<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+
+<script src="//cbl.gov.ly/wp-content/themes/cbl/js/init.min.js?v=1.1.4"></script>
+
+
+<!-- Page JS Implementing Plugins (Remove the plugin script here if site does not use that feature)--> 
+
+<script src="/js/jquery.appear.js"></script> 
+<script src="/js/counter/jquery.countTo.js"></script> 
+<script src="/js/select2/select2.full.js"></script> 
+<script src="/js/range-slider/ion.rangeSlider.min.js"></script> 
+<script src="/js/owl-carousel/owl.carousel.min.js"></script> 
+<script src="/js/jarallax/jarallax.min.js"></script> 
+<script src="/js/jarallax/jarallax-video.min.js"></script> 
+<script src="/js/magnific-popup/jquery.magnific-popup.min.js"></script> 
+
+  <script class="rs-file" src="/royalslider/jquery.royalslider.min.js"></script>
+  <link   class="rs-file" href="/royalslider/royalslider.css" rel="stylesheet">
+  <link class="rs-file" href="/royalslider/skins/minimal-white/rs-minimal-white.css" rel="stylesheet">
+
+<!-- Template Scripts (Do not remove)--> 
+<script src="/js/custom.js"></script>
+
+
+    <script type="text/javascript" language="javascript" src="/js/liMarquee.js"></script>	
+	<script>
+	$(window).on('load',function(){
+		$('.anyClass').liMarquee({
+		scrollamount: 50,
+		direction: 'right',
+		drag: false,
+		circular: false,
+
+		scrolldelay: 10
+	});
+	})
+	</script> s
+
+<script type="text/javascript" language="javascript">
+	
+			$("#main1").fadeIn("50");
+
+		   var numlist=1;
+		   var action='auto';
+	
+	
+//		   function timedCountmain(action)
+//		   {
+//			   
+//			if(action=='auto'){
+//			   switch_fad('main',numlist,3,'auto');	   
+//			   numlist=numlist+1;
+//			   if(numlist==4){numlist=1;}
+//			   setTimeout("timedCountmain(action)",7000);
+//			   }
+//			  }  
+		  // timedCountmain(action);
+		  
+</script> 	
+
+ <script id="addJS">jQuery(document).ready(function($) {
+  $('#full-width-slider').royalSlider({
+    arrowsNav: true,
+    loop: false,
+    keyboardNavEnabled: true,
+    controlsInside: false,
+    imageScaleMode: 'fill',
+    arrowsNavAutoHide: false,
+    autoScaleSlider: true, 
+    autoScaleSliderWidth: 960,     
+    autoScaleSliderHeight: 500,
+    controlNavigation: 'bullets',
+    thumbsFitInViewport: false,
+    navigateByClick: true,
+    startSlideId: 0,
+    autoPlay: false,
+    transitionType:'move',
+    globalCaption: false,
+    deeplinking: {
+      enabled: true,
+      change: false
+    },
+    /* size of all images http://help.dimsemenov.com/kb/royalslider-jquery-plugin-faq/adding-width-and-height-properties-to-images */
+    imgWidth: 900,
+    imgHeight: 600
+  });
+});
+</script>
+</body>
+</html>
